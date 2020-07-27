@@ -55,15 +55,15 @@
 }
 
 body {
-  background-color: #134611;
+  background-color: #FFFECB;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#FFFECB;
+  color:#134611;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#FFFECB;
+  color: #134611;
   margin:0 0 20px;
 }
 
@@ -153,6 +153,10 @@ th {
 
 img {
   max-width:100%;
+}
+
+.left {
+  text-align:left;
 }
 
 header {
